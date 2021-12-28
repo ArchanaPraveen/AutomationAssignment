@@ -1,0 +1,8 @@
+[
+  {
+    "pageName": "HomePage",
+    "name": "SignIn",
+    "locateUsing": "ClassName",
+    "locator": "login"
+  }
+]
